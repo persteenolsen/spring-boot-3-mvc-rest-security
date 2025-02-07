@@ -3,7 +3,7 @@
 
 <html lang="en">
 <head>
-	<title>A Java Spring Boot Rest API Secured Web Application</title>
+	<title>A Java Spring Boot 3 Rest API Secured Web Application</title>
 	
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">

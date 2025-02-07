@@ -47,7 +47,7 @@ public class WelcomeController {
 
 	model.put("memorymessage", memoryheapS);
 
-	helloworld = "Welcome to a Java Spring Boot REST API - MVC JPA Security Web Application!";
+	helloworld = "Welcome to a Java Spring Boot 3 REST API - MVC JPA Security Web Application!";
 
 	model.put("welcomemessage", helloworld);
 				
