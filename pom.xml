@@ -88,14 +88,6 @@
     <version>1.8.0</version>
 </dependency>
 
-<!-- For taglibs - JSP -->
-<!--Note: That did NOT work with Spring Boot 3.3-->
-<!--<dependency>  
-    <groupId>org.springframework.security</groupId>  
-    <artifactId>spring-security-taglibs</artifactId>  
-    <version>5.0.4.RELEASE</version>  
-</dependency>-->
-
 <!--This works with Spring Boot 3.3-->
 <dependency>
     <groupId>org.springframework.security</groupId>
@@ -103,13 +95,13 @@
     <version>6.1.5</version>
 </dependency>
 
-
 <!-- For taglibs - JSP -->
 <dependency>
   <groupId>jakarta.servlet.jsp.jstl</groupId>
   <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
   <version>3.0.0</version>
 </dependency>
+
 <dependency>
   <groupId>org.glassfish.web</groupId>
   <artifactId>jakarta.servlet.jsp.jstl</artifactId>
